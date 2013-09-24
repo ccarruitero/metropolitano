@@ -27,6 +27,5 @@
     "desktop-notification":{
       "description": "Notifications"
     }
-  },
-  "type": "privileged"
+  }
 }
